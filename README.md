@@ -1,6 +1,6 @@
 # 📊 Data Jobs Dashboard – Power BI
 
-![Data job dashboard](./Data%20job%20dashboard.png)
+![Data job dashboard](images/Data_job_dashboard.png)
 
 ## 📝 Project Overview
 This project presents an interactive Power BI dashboard built using real-world **job postings data from 2024**, covering roles such as Data Analyst, Data Scientist, Data Engineer, and related tech positions.  
@@ -15,7 +15,10 @@ This dashboard helps **Job seekers, Job Transitioners and Job Swappers** quickly
 
 ## 🎥 Dashboard Preview
 
-![Data Jobs Dashboard GIF](./PowerBi%20dashboard.gif)
+![PowerBi dashboard](images/PowerBi_dashboard.gif)
+
+
+
 
 ## 🧩 Dashboard Features
 
