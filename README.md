@@ -13,7 +13,7 @@ Each dashboard focuses on:
 
 ## 💼 Data Jobs Dashboard - 1
 
-![Data Jobs Dashboard Preview](/images\Data_job_dashboard.png)
+![Data Jobs Dashboard Preview](images/Data_job_dashboard.png)
 
 ### 🛠️ Key Skills & Techniques Applied
 
