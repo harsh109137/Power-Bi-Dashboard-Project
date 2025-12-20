@@ -3,7 +3,7 @@
 ![Data job dashboard](/images/Data_job_dashboard.png)
 
 ## 📝 Project Overview
-This project presents an interactive Power BI dashboard built using real-world **job postings data from 2024**, covering roles such as Data Analyst, Data Scientist, Data Engineer, and related tech positions.  
+This project presents an interactive Power BI dashboard built using real-world **Data jobs from 2024** , covering roles such as Data Analyst, Data Scientist, Data Engineer, and related tech positions.  
 The goal of this dashboard is to uncover meaningful insights about the **job market**, including hiring trends, salary ranges, job types, work-from-home availability, and global job distribution.
 
 The report includes:
